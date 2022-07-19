@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fccce4f-fc77-45e2-994e-597552225e99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2C9StxELPAomonakq4jEF7tkoeY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fccce4f-fc77-45e2-994e-597552225e99" name="Default Changelist" comment="" />
+      <created>1658213525819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658213525819</updated>
+      <workItem from="1658213529861" duration="1478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="847" y="407" width="718" height="266" key="#Notifications" timestamp="1658213849265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="847" y="407" width="718" height="266" key="#Notifications/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658213849265" />
+    <state x="698" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658214563197">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658214563197" />
+    <state x="534" y="121" key="CommitChangelistDialog2" timestamp="1658214520755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="534" y="121" key="CommitChangelistDialog2/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658214520755" />
+    <state width="356" height="363" key="Git.Branch.Popup" timestamp="1658214195720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="356" height="363" key="Git.Branch.Popup/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658214195720" />
+    <state x="469" y="176" key="SettingsEditor" timestamp="1658214063606">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="176" key="SettingsEditor/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658214063606" />
+    <state x="560" y="277" key="Vcs.Push.Dialog.v2" timestamp="1658214070772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="277" key="Vcs.Push.Dialog.v2/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658214070772" />
+    <state x="782" y="438" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1658213598075">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="782" y="438" key="git4idea.remote.GitConfigureRemotesDialog/-1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1658213598075" />
+  </component>
+</project>
