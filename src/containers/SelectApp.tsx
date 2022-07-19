@@ -1,10 +1,10 @@
 import React from 'react'
 import SelectApp from '../components/SelectApp'
 import useSelectVersion from '../hooks/use-select-version'
-
+import versionData from '../uploads/versions.json'
 
 const EnhancedSelectApp = () => {
-    const versions = ['1.1.1', '1.1.0', '1.0.0']
+    const versions = versionData
     const [version, changeVersion] = useSelectVersion(versions[0])
 
 
