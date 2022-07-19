@@ -7,10 +7,7 @@ function App() {
     <div className="App">
       <h1>アプリダウンロードページ</h1>
         <SelectApp />
-        <div>
-            <a href="">aaaa</a>
-            <p className="sub_text">アイコンをタップしてダウンロードしてください</p>
-        </div>
+        <p className="sub_text">アイコンをタップしてダウンロードしてください</p>
     </div>
   );
 }

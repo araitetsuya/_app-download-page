@@ -16,7 +16,7 @@ const SelectApp: React.FC<Props> = ({versions, version, changeVersion}) => {
                 ))}
             </select>
 
-            <p>{version}</p>
+            <a href={`itms-services://?action=download-manifest&url=${process.env.REACT_APP_APP_URL}/${version}/manifest.plist`}>{version}</a>
         </div>
     )
 }
